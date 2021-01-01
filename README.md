@@ -1,1 +1,1 @@
-# personal_helper_bot
+# personal_reddit_bot
