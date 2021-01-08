@@ -52,8 +52,8 @@ for sub in subreddit_list:
 
 
 reddit_html = """\
-				<html> <body> <p>Hi Pal,<br><br> Below are your daily subreddit updates, enjoy!<br><br>
-			""" + reddit_text + """</p></body></html>"""
+		<html> <body> <p>Hi Pal,<br><br> Below are your daily subreddit updates, enjoy!<br><br>
+		""" + reddit_text + """</p></body></html>"""
 
 # Formatting and sending acquired links to email address
 
