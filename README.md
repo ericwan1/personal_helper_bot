@@ -15,3 +15,7 @@ This was a really interesting project that I worked on over two days. It was the
 1. Improve upon the output format of the subreddits and links. Currently for my personal use it is fine, but I imagine that others may want a more aesthetically pleasing email. 
 
 2. Work on security. Figuring out a way to ensure that important email information, passwords, reddit login info, etc. will not have to be typed into the script. 
+
+### Citations?
+
+Reading Reddit's API documentation and moving forward with that section of the project was quite simple. The emailing part however, not so much. I got a bunch of help from the smtplib documentation and from https://realpython.com/python-send-email/. 
